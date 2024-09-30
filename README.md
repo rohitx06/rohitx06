@@ -2,13 +2,12 @@
 ## 🚀 About Me
 
 
-🧠 I'm currently learning Linux, Web Dev.
+🧠 I'm currently learning C++, Web Development.
 
-🤔 I'm looking for help with Cybersecurity Concepts.
+
 
 😄 Pronouns..He/Him
 
-⚡️ Fun fact:The first programmer was the daughter of a mad poet😜
 
 
 ## 🛠 Skills
