@@ -7,9 +7,7 @@
 ---
 
 ### 🧠 What I’m Currently Learning
-- Full-stack web development (Node.js + Express + MySQL)
-- Android app development using Kotlin
-- Cybersecurity fundamentals and ethical hacking
+- Full-stack web development (Node.js + React)
 - Data Structures and Algorithms (C++)
 
 
